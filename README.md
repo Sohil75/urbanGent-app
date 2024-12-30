@@ -18,3 +18,4 @@ Working demo (https://urbangent.netlify.app/) backend git repo (https://github.c
 
 Clone the repo and run npm install
 then run npm run build
+# the code is in master branch
