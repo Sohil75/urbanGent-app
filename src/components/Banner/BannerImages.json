@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "url":"https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731103240/bann4_jyd1g9.jpg",
+        "name":"banner_1",
+        "link":"/navigate"
+    },
+    {
+        "id":2,
+        "url":"https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731103240/bann3_ej1u6r.jpg",
+        "name":"banner_2",
+        "link":"/navigate"
+        
+    },
+    {
+        "id":3,
+        "url":"https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731101844/Designer_iabxd5.png",
+        "name":"banner_3",
+        "link":"/navigate"
+    },
+    {
+        "id":4,
+        "url":"https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731099446/samples/ecommerce/accessories-bag.jpg",
+        "name":"banner_4",
+        "link":"/navigate"
+    }
+]

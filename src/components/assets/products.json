@@ -1,0 +1,141 @@
+[
+    
+    {
+        "id": 1,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731405989/basic-green-shirt-men-rsquo-s-fashion-apparel-studio-shoot_z4xgts.jpg",
+        "name": "Stylish shirt",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"TopWear",
+        "subcategory":"shirts"
+    },
+    {
+        "id": 2,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731405978/navid-sohrabi-kn-xQsPlJNc-unsplash_glql5t.jpg",
+        "name": "Clasic Black Shirt",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"TopWear",
+        "subcategory":"shirts"
+        
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731405882/dima-dallacqua-NzBr-Vy_e8M-unsplash_csjdlu.jpg",
+        "name": "White T-Shirt",
+        "rating": 4.5,
+       "newprice": 499,
+        "oldprice":799,
+        "category":"TopWear",
+        "subcategory":"T-shirts"
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731405877/behrouz-sasani-cEnSr1WRHUY-unsplash_ryxwt4.jpg",
+        "name": "Yellow T-Shirt",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"TopWear",
+        "subcategory":"T-shirts"
+    },
+    {
+        "id": 5,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731406098/images_1_xjzm4q.jpg",
+        "name": "Branded Jeans",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"BottomWear",
+        "subcategory":"Jeans"
+    },
+    {
+        "id": 6,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731406097/71SA5aAXGwL._AC_UY350__l7oobk.jpg",
+        "name": "Tonned Jeans",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"BottomWear",
+        "subcategory":"Jeans"
+    },
+    {
+        "id": 7,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731406076/56Z6wOGe_fee637a7b60a4e7baf24254579b5d445_vu7voz.jpg",
+        "name": "Cargos Pant",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"BottomWear",
+        "subcategory":"Cargos"
+    },
+    {
+        "id": 8,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731406078/kal-visuals-d5GlpSOAzzg-unsplash_wjumho.jpg",
+        "name": "Pocket Cargos",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"BottomWear",
+        "subcategory":"Cargos"
+    },
+    {
+        "id": 9,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731406073/images_cxghgi.jpg",
+        "name": "Beig Cargos",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"BottomWear",
+        "subcategory":"Cargos"
+    },
+    {
+        "id": 10,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731405974/51Cnc5AykfL._AC_UY1100__yk1uem.jpg",
+        "name": "Checked Shirt",
+        "rating": 4.5,
+        "newprice": 499,
+        "oldprice":799,
+        "category":"TopWear",
+        "subcategory":"shirts"
+    },{
+        "id": 11,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731406020/young-handsome-business-man-outside-business-center_fafqf2.jpg",
+        "name": "Full Jacket",
+        "rating": 4.5,
+        "newprice": 2999,
+        "oldprice":799,
+        "category":"TopWear",
+        "subcategory":"hoodies"
+    },
+    {
+        "id": 13,
+        "image": "https://res.cloudinary.com/ddzrwfbnl/image/upload/v1734195622/men-grey-plain-hoodies_mjcen6.jpg",
+        "name": "Gray Hoodies",
+        "rating": 4.5,
+        "newprice": 2999,
+        "oldprice":799,
+        "category":"TopWear",
+        "subcategory":"hoodies"
+    },
+    {"id":12,
+    "name":"Green Chinos",
+    "image":"https://res.cloudinary.com/ddzrwfbnl/image/upload/v1731406114/images_iysgpy.jpg",
+    "rating":3.9,
+    "newprice":999,"oldprice":1100,
+    "category":"BottomWear",
+    "subcategory":"Chinos"
+},
+{"id":14,
+"name":"Green Cargos",
+"image":"https://res.cloudinary.com/ddzrwfbnl/image/upload/v1734204910/black_w6blqu.avif",
+"rating":3.9,
+"newprice":999,"oldprice":1100,
+"category":"BottomWear",
+"subcategory":"Cargos"
+}
+    
+
+]

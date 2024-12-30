@@ -1,0 +1,145 @@
+.footer {
+    background-color: #222;
+    color: #ddd;
+    padding: 40px 20px;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  /* Brand Section */
+  .footer-brand h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    color: #f5a623;
+    margin-bottom: 5px;
+  }
+  
+  .footer-brand p {
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 0 150px;
+  }
+  
+  /* Links Section */
+  .footer-links {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+  
+  .footer-section h3 {
+    color: #f5a623;
+    margin-bottom: 10px;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section li {
+    margin: 5px 0;
+    font-size: 15px;
+    transition: transform 0.2s;
+  }
+  .footer-section li:hover{
+    transform: scale(1.5);
+  }
+
+  
+  .footer-section a {
+    color: #ddd;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .footer-section a:hover {
+    color: #f5a623;
+  }
+  
+  /* Social Icons */
+  .footer-icons a {
+    color: #ddd;
+    font-size: 25px;
+    margin-right: 10px;
+    transition: color 0.3s;
+  }  
+  .footer-icons a:hover{
+    color: #f5a623;
+  }
+  .social-icon{
+    transition: transform 0.2s;
+  }
+  .social-icon:hover{
+    transform: scale(1.5);
+  }
+  
+  /* Newsletter */
+  .newsletter {
+    margin: 20px 0;
+  }
+  
+  .newsletter p {
+    margin-bottom: 10px;
+  }
+  
+  .newsletter-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .newsletter-input input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 250px;
+  }
+  
+  .newsletter-input button {
+    padding: 10px 15px;
+    background-color: #f5a623;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .newsletter-input button:hover {
+    background-color: #ff8c00;
+  }
+  
+  /* Back to Top Button */
+  .backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #f5a623;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+   
+  }
+  
+  #backToTop:hover {
+    background-color: #ff8c00;
+  }
+  
+  #backToTop.show {
+    display: block;
+  }
+  
+  .footer-copyright {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #aaa;
+    border-top: 1px solid #444;
+    margin-bottom: -20px;
+  }
