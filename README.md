@@ -12,7 +12,7 @@ Cart & Wishlist
 
 Secure user-friendly interface
 
-Working demo (https://urbangent.netlify.app/) backend git repo (https://github.com/Sohil75/urban-app) host link of backend (https://urban-app.onrender.com)
+Working demo (https://urbangentapp.netlify.app/     ) backend git repo (https://github.com/Sohil75/urban-app) host link of backend (https://urban-app.onrender.com)
 
 ##Instructions
 
